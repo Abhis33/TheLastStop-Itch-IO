@@ -1,5 +1,6 @@
 # TheLastStop-Itch-IO
 The Last Stop game
+
 The game was made in Scratch and the link to the game can be found at - https://scratch.mit.edu/projects/604536474/
 Hope you enjoy the game.
 
@@ -11,5 +12,6 @@ You start the game by rolling the dice and then a card is shown and whatever que
 
 # License
 Author-Abhishek Mane
+
 This project can only be used for non-commerical and educational purposes and cannot be modified, resold.
 You must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material.
